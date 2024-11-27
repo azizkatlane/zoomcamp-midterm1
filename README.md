@@ -61,7 +61,7 @@ Example Request:
 Follow these steps to set up and run the project:
 
 1. **Clone the repository**:
-   ```bash
+```bash
    git clone <repository_url>
    cd <repository_folder>
 ```
@@ -70,7 +70,7 @@ Follow these steps to set up and run the project:
 pip install pipenv
 pipenv install
 pipenv shell
-```
+  ```
 
 ```bash
 python train.py
